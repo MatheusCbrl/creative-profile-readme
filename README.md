@@ -253,6 +253,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## M
 
+- [Matheus Cabral](https://github.com/MatheusCbrl)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/MatheusCbrl.png">
+  </details>
 - [Mpho Mphego](https://github.com/mmphego)
   <details>
     <summary>Preview</summary>
